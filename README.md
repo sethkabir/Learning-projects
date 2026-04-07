@@ -1,2 +1,2 @@
 # Data-analysis-projects
-Projects related to data / business analysis
+Projects related to Data and Business Analysis
