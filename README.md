@@ -1,4 +1,4 @@
-# Data-analysis-projects
+# Learning-projects
 This repository contains all the projects I worked on to learn data analysis.
 
 Projects:
