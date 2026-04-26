@@ -8,3 +8,4 @@ Certificates:
 1. [Pandas certificate from Kaggle](Certificates/Pandas_Kaggle.png)
 2. [Crash Course on Python from Google](Certificates/Python_Google.pdf)
 3. [Business Analytics with Excel from John Hopkins University](Certificates/BA_JHU.pdf)
+4. [Data Visualisation certificate from Kaggle](Certificates/Data_Visualization_Kaggle.png)
